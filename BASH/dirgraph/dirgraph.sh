@@ -6,17 +6,17 @@
 #                                                                                                  #
 # Autor: Nicol Castillo, xcasti00                                                                  #
 # Datum: 31. 03. 2030                                                                              #
-# Verze: 4																						   #
-#																								   #
-# Skenuje adresar zadany ve forme argumentu, pokdu neni zadany, tak se skenuje aktualni 		   #
-# Vypise se histogram a informace o adresarich a jejich obsahu									   #
+# Verze: 4											   #
+#												   #
+# Skenuje adresar zadany ve forme argumentu, pokdu neni zadany, tak se skenuje aktualni		   #
+# Vypise se histogram a informace o adresarich a jejich obsahu					   #
 # Jestli je skript spusteny s prepinacem -i, adresare a soubory budou ignorovany podle toho,	   #
-# zda se shoduji se zadanym regularnim vyrazem  												   #
-# Uziti: dirgraph [-i FILE_ERE] [-n] [DIR]														   #
-# zadani jsem pochopila tak, ze pocitam s tim, ze												   #
-#			uzivatel bude chtit ignorovat maximalne jednu vec									   #
-#			bude uzivatel zadavat argumenty stale ve stejnem poradi								   #
-# pro tento skript take predpokladam, ze v nazvech souboru se nevyskytuji mezery				   #
+# zda se shoduji se zadanym regularnim vyrazem  						   #
+# Uziti: dirgraph [-i FILE_ERE] [-n] [DIR]							   #
+# zadani jsem pochopila tak, ze pocitam s tim, ze						   #
+#			uzivatel bude chtit ignorovat maximalne jednu vec			   #
+#			bude uzivatel zadavat argumenty stale ve stejnem poradi			   #
+# pro tento skript take predpokladam, ze v nazvech souboru se nevyskytuji mezery		   #
 ####################################################################################################
 
 
